@@ -1,0 +1,15 @@
+{
+  "name": "ubigeos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=6.5",
+    "npm": ">=3.10"
+  },
+  "author": "",
+  "license": "ISC"
+}
